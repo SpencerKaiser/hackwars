@@ -34,7 +34,7 @@ Mobile: +34 696 230 444
 Twitter: @AnthonyRoux_   
 Slack: anthony.roux
 
-# 5. More details
+### 5. More details
 
 Amadeus Self-Service APIs have been built with developers in mind and have been delivered with strong quality standards. They share the same API design, guidelines and standardization. Due to its versatility and their potential to engage developers, these brand new Self-Service APIs are being shown for the first time here in AA Hackwars Hackathon.
 
